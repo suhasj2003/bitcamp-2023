@@ -21,3 +21,5 @@ def get_request():
     resp = requests.get(url = URL, params = params).json()
     data = json.loads(resp)
     return data
+
+
