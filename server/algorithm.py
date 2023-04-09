@@ -1,0 +1,2 @@
+def algorithm(info):
+    pass
