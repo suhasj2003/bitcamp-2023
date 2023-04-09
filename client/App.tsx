@@ -65,7 +65,7 @@ const App = () => (
                 ),
               }}
             />
-
+            
             <Tab.Screen
               name="Chat"
               component={Messages}
@@ -79,7 +79,7 @@ const App = () => (
                 ),
               }}
             />
-
+            
             <Tab.Screen
               name="Profile"
               component={Profile}
