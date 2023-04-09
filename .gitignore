@@ -2,3 +2,4 @@
 *.lock
 *.lock
 server/__pycache__/algorithm.cpython-39.pyc
+node_modules
